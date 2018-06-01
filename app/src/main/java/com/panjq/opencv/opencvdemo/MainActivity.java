@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
         TextView tv = (TextView) findViewById(R.id.sample_text);
         tv.setText(stringFromJNI());
         imageview = (ImageView) findViewById(R.id.image_view);
-        bmp = BitmapFactory.decodeResource(getResources(), R.drawable.test2);
+        bmp = BitmapFactory.decodeResource(getResources(), R.drawable.girl);
         imageview.setImageBitmap(bmp);
         TextView tv2 = (TextView) findViewById(R.id.tv2);
         Button buttonLoadImage = (Button) findViewById(R.id.buttonLoadPicture);
