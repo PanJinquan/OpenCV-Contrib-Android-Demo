@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:\MyGit\OpenCV-Android-Demo\OpenCV-Android-Demo\OpenCV-Android-Demo-master\OpenCV-Android-Demo.iml" filepath="D:\MyGit\OpenCV-Android-Demo\OpenCV-Android-Demo\OpenCV-Android-Demo-master\OpenCV-Android-Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OpenCV-Contrib-Android-Demo.iml" filepath="$PROJECT_DIR$/OpenCV-Contrib-Android-Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\MyGit\OpenCV-Android-Demo\OpenCV-Android-Demo\OpenCV-Android-Demo-master\app\app.iml" filepath="D:\MyGit\OpenCV-Android-Demo\OpenCV-Android-Demo\OpenCV-Android-Demo-master\app\app.iml" />
+      <module fileurl="file://D:\MyGit\OpenCV-Android-Demo\OpenCV-Android-Demo\OpenCV-Android-Demo-master\openCVLibrary310\openCVLibrary310.iml" filepath="D:\MyGit\OpenCV-Android-Demo\OpenCV-Android-Demo\OpenCV-Android-Demo-master\openCVLibrary310\openCVLibrary310.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openCVLibrary330/openCVLibrary330.iml" filepath="$PROJECT_DIR$/openCVLibrary330/openCVLibrary330.iml" />
+    </modules>
+  </component>
+</project>
